@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactproba/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reactproba/static/js/main.784c905e.chunk.js",
+    "main.js.map": "/reactproba/static/js/main.784c905e.chunk.js.map",
+    "runtime-main.js": "/reactproba/static/js/runtime-main.39bd5e85.js",
+    "runtime-main.js.map": "/reactproba/static/js/runtime-main.39bd5e85.js.map",
+    "static/js/2.8f599580.chunk.js": "/reactproba/static/js/2.8f599580.chunk.js",
+    "static/js/2.8f599580.chunk.js.map": "/reactproba/static/js/2.8f599580.chunk.js.map",
+    "static/js/3.79200121.chunk.js": "/reactproba/static/js/3.79200121.chunk.js",
+    "static/js/3.79200121.chunk.js.map": "/reactproba/static/js/3.79200121.chunk.js.map",
+    "index.html": "/reactproba/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reactproba/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8f599580.chunk.js.LICENSE.txt": "/reactproba/static/js/2.8f599580.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactproba/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39bd5e85.js",
+    "static/js/2.8f599580.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.784c905e.chunk.js"
+  ]
+}
