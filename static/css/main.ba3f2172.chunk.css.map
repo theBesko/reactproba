@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/app.scss"],"names":[],"mappings":"AAEA,GACI,SAHM","file":"main.ba3f2172.chunk.css","sourcesContent":["$var : red;\r\n\r\nh1 {\r\n    color:$var;\r\n}\r\n\r\ndiv {\r\n    p {}\r\n    table{}\r\n}"]}
